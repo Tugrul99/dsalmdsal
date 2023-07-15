@@ -88,7 +88,7 @@ h4 {
 }
 
 .header {
-  background-image: url(/img/12717.jpg);
+  background-image: url(./img/12717.jpg);
   filter: brightness(0.8);
   background-position: center;
   background-size: cover;
